@@ -1,0 +1,29 @@
+[
+  {
+    "id": "char_siye",
+    "name_zh": "司野",
+    "codename_en": "SIYE",
+    "age": 24,
+    "occupation": "家族集团执行层",
+    "city": "海临市",
+    "archetype": "高傲直球型"
+  },
+  {
+    "id": "char_linche",
+    "name_zh": "林澈",
+    "codename_en": "LINCHE",
+    "age": 29,
+    "occupation": "三甲医院急诊医生",
+    "city": "云港市",
+    "archetype": "克制守护型"
+  },
+  {
+    "id": "char_guyanzhou",
+    "name_zh": "顾言舟",
+    "codename_en": "GUYANZHOU",
+    "age": 26,
+    "occupation": "独立音乐制作人",
+    "city": "雾川市",
+    "archetype": "浪漫自由型"
+  }
+]
